@@ -140,7 +140,3 @@ Each additional hour of study increases exam score by ~6.85 points on average.
 ## ⭐ Author
 
 Joncy Keda - AI Developer
-
-
-
----
