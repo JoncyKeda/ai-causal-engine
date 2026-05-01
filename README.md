@@ -1,7 +1,5 @@
 # 🧠 AI Causal Inference Engine (Cause vs Correlation)
 
-### 👨‍💻 Developed by: **AI Developer**
-
 ---
 
 ## 📌 Overview
@@ -139,40 +137,10 @@ Each additional hour of study increases exam score by ~6.85 points on average.
 
 ---
 
-## ⚠️ Limitations
+## ⭐ Author
 
-* Assumes no hidden confounders
-* Requires structured data
-* Sensitive to data quality
+Joncy Keda - AI Developer
 
----
 
-## 🚀 Future Improvements
-
-* Add causal graphs visualization
-* Auto-detect confounders
-* Support multiple causal models
-* Integrate real-world datasets
-* Deploy on cloud
-
----
-
-## 💼 Resume Highlight
-
-> Built an AI Causal Inference Engine to analyze cause-effect relationships using DoWhy, enabling data-driven decision making beyond correlation-based models.
-
----
-
-## 🔥 What Makes This Project Stand Out
-
-* Goes beyond prediction → explains **why things happen**
-* Rare and advanced AI topic
-* Strong business and research relevance
-
----
-
-## ⭐ Support
-
-If you found this useful, give it a ⭐ on GitHub!
 
 ---
